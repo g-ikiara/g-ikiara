@@ -29,6 +29,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="width:40px;height:40px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-line.svg" style="width:40px;height:40px" />
     <img src="http://www.nasm.us/images/svg/nasm_on_white.svg" style="width:40px;height:40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="width:40px;height:40px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" style="width:40px;height:40px" />
 </div>
