@@ -9,10 +9,10 @@
 
 - 👋 Hi there! I'm Ikiara...
 - 👀 I'm interested in Science and Technology!
-- 🌱 Currently learning Propulsion Systems and Molecular Modelling in C/C++...
-- 💞 I'm looking forward to collaborate on Chemical Physics & Plasma...
-- 📫 You can reach me on LinkedIn. _Press the link, will you?_
-- ⚡ Fun Fact: I'm an upcoming Chess player.
+- 🌱 Currently learning Propulsion Systems...
+- 💞 I'm looking forward to collaborate on Physical Chemistry and Computational Methods...
+- 📫 You can reach me on LinkedIn.
+- ⚡ Fun Fact: I'm learning Karate.
 
 > [!Note]
 > This is my Tech Stack.
@@ -29,5 +29,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="width:40px;height:40px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-line.svg" style="width:40px;height:40px" />
     <img src="http://www.nasm.us/images/svg/nasm_on_white.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" style="width:40px;height:40px" />
 </div>
